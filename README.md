@@ -18,18 +18,22 @@ I am incredibly analytical and remain very attentive to small details.
 In regards to projects, I have the following:
 
 Day-Trading AI
+
 (Individual project with a friend)
+
 This project is oriented towards an AI that analyzes S&P 500 funds and analyzes them to attempt to trade them
-It is coded in Python
+It is coded in Python, using NumPy and Pandas
 It required strong knowledge of the AI creation process, the statistical methods behind AI, and acute awareness towards training the AI
 It is currently still being tested on test data but will soon move to being a simulator-like state until the results for it seem strong enough to warrant actual day-trading using it
 
 Project to Design Schedule Application
+
 Completed in my Honors Object-Oriented Programming class
 We worked in a team of 5 to design a schedule application that recommends mental-health friendly activities to the user depending on their aggregate stress levels and available time
 It was coded in Java
 The project required intense knowledge of intricate inheritance structures, lambda functions, streaming and the design of interfaces in Java
 Developed a UML representation of the complicated project additionally, along with a sequence diagram to help detail data flow
+Presented and explained the design and structure of the program to a group of 30 individuals
 
 Currently focused on designing more projects to enhance my learning and am open to collaboration for any projects.
 Seeking a position in computer science and data science.
