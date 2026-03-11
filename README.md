@@ -1,10 +1,10 @@
 Alexander Simonson
+
 Student at Rowan University
 Bachelor of Science in Computer Science
 Bachelor of Science in Data Science
 Concentration in Honors Studies
 
-Salutations!
 As a student, I have had a wide range of opportunities to engage in specific fields of computer science, data science and math.
 I have a particular fondness for AI, as in, I enjoy learning of the process of developing AIs, how they function, and the actual mathetatical processese behind them.
 I aspire to someday work as an AI developer, but I of course share interests in fields like software development and data analysis. I also share a particular fondness for
